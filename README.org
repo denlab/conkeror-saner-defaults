@@ -23,6 +23,6 @@
 
 * One minute install
 
-** Backup your =~/.conkerorrc= : 
+** Backup your =~/.conkerorrc=
 ** Put the one in this project instead
 ** That's it
