@@ -1,0 +1,28 @@
+#+TITLE: Learning
+#+STARTUP: indent
+#+STARTUP: hidestars odd
+
+* What's this ? 
+
+  An init file with sensible defaults for [[http://conkeror.org/][Conkeror Web Browser]].
+
+  There's: 
+
+  - Use history in URL completion
+  - Add buffer count indicator
+  - Add page load indicator
+  - Remove the clock
+  - Add webjumps for:
+    - imdb
+    - google
+  - Allow javascript injection (ala Greasemonkey) with JQuery: 
+#+BEGIN_SRC
+  M-x jquery-here
+  jq: $("h1").css("backgroundColor", "blue");
+#+END_SRC
+
+* One minute install
+
+** Backup your =~/.conkerorrc= : 
+** Put the one in this project instead
+** That's it
