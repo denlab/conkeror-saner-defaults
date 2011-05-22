@@ -8,7 +8,7 @@
 
   There's: 
   - Show tabs 
-  [[%20%20https://github.com/denlab/enlive-samples/raw/master/src/doc/image/diagram-sample1.png][  https://github.com/denlab/conkeror-saner-defaults/raw/master/src/doc/image/tabs.png]]
+  [[https://github.com/denlab/enlive-samples/raw/master/src/doc/image/diagram-sample1.png]]
   - Use history in URL completion
   - Add buffer count indicator
   - Add page load indicator
