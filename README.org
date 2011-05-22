@@ -7,7 +7,8 @@
   An init file with sensible defaults for [[http://conkeror.org/][Conkeror Web Browser]].
 
   There's: 
-
+  - Show tabs 
+    Use M-n / M-p for next / previous buffer
   - Use history in URL completion
   - Add buffer count indicator
   - Add page load indicator
