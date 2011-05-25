@@ -44,8 +44,8 @@ require("new-tabs.js");
 /* type 'i your film' in the mini buffer to search 'your film'  on imdb*/
 
 define_webjump("i", "http://imdb.com/find?q=%s");
-
 define_webjump("g", "http://www.google.fr/search?q=%s");
+define_webjump("w", "http://en.wikipedia.org?search=%s");
 
 
 
